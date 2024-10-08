@@ -6,6 +6,7 @@ import './style.css'
 // import './ejercicios/3opAsignYBucles/ejercicio1'
 // import './ejercicios/3opAsignYBucles/ejercicio2'
 // import './ejercicios/4funciones/ejercicio1'
-import './ejercicios/4funciones/ejercicio2'
+// import './ejercicios/4funciones/ejercicio2'
+import './ejercicios/5objetos/ejercicio1'
 
 

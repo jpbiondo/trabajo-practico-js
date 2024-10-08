@@ -4,6 +4,7 @@ import './style.css'
 // import './ejercicios/2operadoresLogYCond/ejercicio1'
 // import './ejercicios/2operadoresLogYCond/ejercicio2'
 // import './ejercicios/3opAsignYBucles/ejercicio1'
-import './ejercicios/3opAsignYBucles/ejercicio2'
+// import './ejercicios/3opAsignYBucles/ejercicio2'
+import './ejercicios/4funciones/ejercicio1'
 
 

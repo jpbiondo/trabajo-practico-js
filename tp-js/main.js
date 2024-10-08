@@ -1,4 +1,4 @@
 import './style.css'
-import './ejercicios/ejercicio1'
+import './ejercicios/ejercicio2'
 
 

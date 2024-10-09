@@ -14,5 +14,6 @@ import './style.css'
 // import './ejercicios/7introDom/ejercicio1'
 // import './ejercicios/7introDom/ejercicio2'
 // import './ejercicios/8eventosDom/ejercicio1'
-import './ejercicios/8eventosDom/ejercicio2'
+// import './ejercicios/8eventosDom/ejercicio2'
+import './ejercicios/9localStorage/ejercicio1'
 

@@ -16,4 +16,3 @@ import './style.css'
 // import './ejercicios/8eventosDom/ejercicio1'
 import './ejercicios/8eventosDom/ejercicio2'
 
-

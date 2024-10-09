@@ -10,6 +10,7 @@ import './style.css'
 // import './ejercicios/5objetos/ejercicio1'
 // import './ejercicios/5objetos/ejercicio2'
 // import './ejercicios/6arrays/ejercicio1'
-import './ejercicios/6arrays/ejercicio2'
+// import './ejercicios/6arrays/ejercicio2'
+import './ejercicios/7introDom/ejercicio1'
 
 
